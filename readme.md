@@ -2,7 +2,7 @@
 
 **Live Application:**
 
-https://your-streamlit-app-link-here
+[https://your-streamlit-app-link-here](https://predicting-irrigation-need-nlykhnqorkxftaydfxz3rz.streamlit.app/)
 
 Use the link above to interact with the application and predict the level of irrigation required (Low, Medium, High) in real time based on environmental, soil, and crop conditions.
 
