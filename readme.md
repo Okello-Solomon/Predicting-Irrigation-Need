@@ -53,13 +53,14 @@ The model was evaluated using cross-validation and classification metrics such a
 
 ## Why XGBoost Was Selected
 
-🎯 Business Goals
+Business Goals
 Optimize water usage in agriculture
 Reduce over-irrigation and under-irrigation
 Improve crop yield and health
 Support precision agriculture and smart farming systems
 Enable data-driven decision-making for farmers and stakeholders
-📌 Objectives
+
+## Objectives
 - Develop a robust machine learning model to predict irrigation needs
 - Identify key factors influencing irrigation requirements
 - Minimize misclassification, especially for high irrigation needs
